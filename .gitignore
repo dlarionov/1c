@@ -1,0 +1,14 @@
+*.user
+*.suo
+*.orig
+*.metaproj
+*.tmp
+*.idea
+*.cache
+*.docstates
+*.dat
+*.log
+
+.git/
+.vs/
+Backup/
