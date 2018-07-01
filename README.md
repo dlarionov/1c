@@ -1,4 +1,4 @@
 # How to Win a Data Science Competition: Learn from Top Kagglers
 ### Coursera final project
 
-0.9127 LB
+0.91 LB
